@@ -1,0 +1,33 @@
+{
+  "name": "com.comscoreplugin",
+  "version": "0.1.0",
+  "description": "Simple plugin to connect SDK ComScore with Cordova",
+  "cordova": {
+    "id": "com.comscoreplugin",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/charlss90/cordova-comscore-plugin.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    }
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/charlss90/cordova-comscore-plugin/issues"
+  },
+  "homepage": "https://github.com/charlss90/cordova-comscore-plugin#readme"
+}
